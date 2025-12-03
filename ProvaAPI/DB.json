@@ -1,0 +1,597 @@
+{
+  "voos": [
+    {
+      "id": "1",
+      "origem": "Porto Alegre",
+      "destino": "São Paulo",
+      "data": "20/12/2024"
+    },
+    {
+      "id": "2",
+      "origem": "Rio de Janeiro",
+      "destino": "Belo Horizonte",
+      "data": "05/01/2025"
+    },
+    {
+      "id": "3",
+      "origem": "Brasília",
+      "destino": "Salvador",
+      "data": "10/01/2025"
+    },
+    {
+      "id": "4",
+      "origem": "Curitiba",
+      "destino": "Florianópolis",
+      "data": "17/01/2025"
+    }
+  ],
+  "assentos": [
+    {
+      "id": "1",
+      "voo_id": "1",
+      "poltrona": "1A",
+      "ocupado": true
+    },
+    {
+      "id": "2",
+      "voo_id": "1",
+      "poltrona": "1B",
+      "ocupado": true
+    },
+    {
+      "id": "3",
+      "voo_id": "1",
+      "poltrona": "1C",
+      "ocupado": true
+    },
+    {
+      "id": "4",
+      "voo_id": "1",
+      "poltrona": "1D",
+      "ocupado": false
+    },
+    {
+      "id": "5",
+      "voo_id": "1",
+      "poltrona": "2A",
+      "ocupado": false
+    },
+    {
+      "id": "6",
+      "voo_id": "1",
+      "poltrona": "2B",
+      "ocupado": false
+    },
+    {
+      "id": "7",
+      "voo_id": "1",
+      "poltrona": "2C",
+      "ocupado": false
+    },
+    {
+      "id": "8",
+      "voo_id": "1",
+      "poltrona": "2D",
+      "ocupado": false
+    },
+    {
+      "id": "9",
+      "voo_id": "1",
+      "poltrona": "3A",
+      "ocupado": false
+    },
+    {
+      "id": "10",
+      "voo_id": "1",
+      "poltrona": "3B",
+      "ocupado": false
+    },
+    {
+      "id": "11",
+      "voo_id": "1",
+      "poltrona": "3C",
+      "ocupado": false
+    },
+    {
+      "id": "12",
+      "voo_id": "1",
+      "poltrona": "3D",
+      "ocupado": true
+    },
+    {
+      "id": "13",
+      "voo_id": "1",
+      "poltrona": "4A",
+      "ocupado": false
+    },
+    {
+      "id": "14",
+      "voo_id": "1",
+      "poltrona": "4B",
+      "ocupado": false
+    },
+    {
+      "id": "15",
+      "voo_id": "1",
+      "poltrona": "4C",
+      "ocupado": false
+    },
+    {
+      "id": "16",
+      "voo_id": "1",
+      "poltrona": "4D",
+      "ocupado": false
+    },
+    {
+      "id": "17",
+      "voo_id": "1",
+      "poltrona": "5A",
+      "ocupado": true
+    },
+    {
+      "id": "18",
+      "voo_id": "1",
+      "poltrona": "5B",
+      "ocupado": true
+    },
+    {
+      "id": "19",
+      "voo_id": "1",
+      "poltrona": "5C",
+      "ocupado": false
+    },
+    {
+      "id": "20",
+      "voo_id": "1",
+      "poltrona": "5D",
+      "ocupado": false
+    },
+    {
+      "id": "21",
+      "voo_id": "2",
+      "poltrona": "1A",
+      "ocupado": true
+    },
+    {
+      "id": "22",
+      "voo_id": "2",
+      "poltrona": "1B",
+      "ocupado": false
+    },
+    {
+      "id": "23",
+      "voo_id": "2",
+      "poltrona": "1C",
+      "ocupado": true
+    },
+    {
+      "id": "24",
+      "voo_id": "2",
+      "poltrona": "1D",
+      "ocupado": false
+    },
+    {
+      "id": "25",
+      "voo_id": "2",
+      "poltrona": "2A",
+      "ocupado": true
+    },
+    {
+      "id": "26",
+      "voo_id": "2",
+      "poltrona": "2B",
+      "ocupado": true
+    },
+    {
+      "id": "27",
+      "voo_id": "2",
+      "poltrona": "2C",
+      "ocupado": true
+    },
+    {
+      "id": "28",
+      "voo_id": "2",
+      "poltrona": "2D",
+      "ocupado": false
+    },
+    {
+      "id": "29",
+      "voo_id": "2",
+      "poltrona": "3A",
+      "ocupado": false
+    },
+    {
+      "id": "30",
+      "voo_id": "2",
+      "poltrona": "3B",
+      "ocupado": false
+    },
+    {
+      "id": "31",
+      "voo_id": "2",
+      "poltrona": "3C",
+      "ocupado": false
+    },
+    {
+      "id": "32",
+      "voo_id": "2",
+      "poltrona": "3D",
+      "ocupado": false
+    },
+    {
+      "id": "33",
+      "voo_id": "2",
+      "poltrona": "4A",
+      "ocupado": true
+    },
+    {
+      "id": "34",
+      "voo_id": "2",
+      "poltrona": "4B",
+      "ocupado": false
+    },
+    {
+      "id": "35",
+      "voo_id": "2",
+      "poltrona": "4C",
+      "ocupado": false
+    },
+    {
+      "id": "36",
+      "voo_id": "2",
+      "poltrona": "4D",
+      "ocupado": false
+    },
+    {
+      "id": "37",
+      "voo_id": "2",
+      "poltrona": "5A",
+      "ocupado": false
+    },
+    {
+      "id": "38",
+      "voo_id": "2",
+      "poltrona": "5B",
+      "ocupado": true
+    },
+    {
+      "id": "39",
+      "voo_id": "2",
+      "poltrona": "5C",
+      "ocupado": false
+    },
+    {
+      "id": "40",
+      "voo_id": "2",
+      "poltrona": "5D",
+      "ocupado": false
+    },
+    {
+      "id": "41",
+      "voo_id": "3",
+      "poltrona": "1A",
+      "ocupado": true
+    },
+    {
+      "id": "42",
+      "voo_id": "3",
+      "poltrona": "1B",
+      "ocupado": true
+    },
+    {
+      "id": "43",
+      "voo_id": "3",
+      "poltrona": "1C",
+      "ocupado": true
+    },
+    {
+      "id": "44",
+      "voo_id": "3",
+      "poltrona": "1D",
+      "ocupado": false
+    },
+    {
+      "id": "45",
+      "voo_id": "3",
+      "poltrona": "2A",
+      "ocupado": true
+    },
+    {
+      "id": "46",
+      "voo_id": "3",
+      "poltrona": "2B",
+      "ocupado": true
+    },
+    {
+      "id": "47",
+      "voo_id": "3",
+      "poltrona": "2C",
+      "ocupado": false
+    },
+    {
+      "id": "48",
+      "voo_id": "3",
+      "poltrona": "2D",
+      "ocupado": false
+    },
+    {
+      "id": "49",
+      "voo_id": "3",
+      "poltrona": "3A",
+      "ocupado": false
+    },
+    {
+      "id": "50",
+      "voo_id": "3",
+      "poltrona": "3B",
+      "ocupado": false
+    },
+    {
+      "id": "51",
+      "voo_id": "3",
+      "poltrona": "3C",
+      "ocupado": false
+    },
+    {
+      "id": "52",
+      "voo_id": "3",
+      "poltrona": "3D",
+      "ocupado": false
+    },
+    {
+      "id": "53",
+      "voo_id": "3",
+      "poltrona": "4A",
+      "ocupado": false
+    },
+    {
+      "id": "54",
+      "voo_id": "3",
+      "poltrona": "4B",
+      "ocupado": false
+    },
+    {
+      "id": "55",
+      "voo_id": "3",
+      "poltrona": "4C",
+      "ocupado": false
+    },
+    {
+      "id": "56",
+      "voo_id": "3",
+      "poltrona": "4D",
+      "ocupado": false
+    },
+    {
+      "id": "57",
+      "voo_id": "3",
+      "poltrona": "5A",
+      "ocupado": true
+    },
+    {
+      "id": "58",
+      "voo_id": "3",
+      "poltrona": "5B",
+      "ocupado": true
+    },
+    {
+      "id": "59",
+      "voo_id": "3",
+      "poltrona": "5C",
+      "ocupado": false
+    },
+    {
+      "id": "60",
+      "voo_id": "3",
+      "poltrona": "5D",
+      "ocupado": false
+    },
+    {
+      "id": "61",
+      "voo_id": "4",
+      "poltrona": "1A",
+      "ocupado": true
+    },
+    {
+      "id": "62",
+      "voo_id": "4",
+      "poltrona": "1B",
+      "ocupado": false
+    },
+    {
+      "id": "63",
+      "voo_id": "4",
+      "poltrona": "1C",
+      "ocupado": false
+    },
+    {
+      "id": "64",
+      "voo_id": "4",
+      "poltrona": "1D",
+      "ocupado": true
+    },
+    {
+      "id": "65",
+      "voo_id": "4",
+      "poltrona": "2A",
+      "ocupado": true
+    },
+    {
+      "id": "66",
+      "voo_id": "4",
+      "poltrona": "2B",
+      "ocupado": true
+    },
+    {
+      "id": "67",
+      "voo_id": "4",
+      "poltrona": "2C",
+      "ocupado": false
+    },
+    {
+      "id": "68",
+      "voo_id": "4",
+      "poltrona": "2D",
+      "ocupado": false
+    },
+    {
+      "id": "69",
+      "voo_id": "4",
+      "poltrona": "3A",
+      "ocupado": false
+    },
+    {
+      "id": "70",
+      "voo_id": "4",
+      "poltrona": "3B",
+      "ocupado": false
+    },
+    {
+      "id": "71",
+      "voo_id": "4",
+      "poltrona": "3C",
+      "ocupado": false
+    },
+    {
+      "id": "72",
+      "voo_id": "4",
+      "poltrona": "3D",
+      "ocupado": false
+    },
+    {
+      "id": "73",
+      "voo_id": "4",
+      "poltrona": "4A",
+      "ocupado": false
+    },
+    {
+      "id": "74",
+      "voo_id": "4",
+      "poltrona": "4B",
+      "ocupado": false
+    },
+    {
+      "id": "75",
+      "voo_id": "4",
+      "poltrona": "4C",
+      "ocupado": false
+    },
+    {
+      "id": "76",
+      "voo_id": "4",
+      "poltrona": "4D",
+      "ocupado": false
+    },
+    {
+      "id": "77",
+      "voo_id": "4",
+      "poltrona": "5A",
+      "ocupado": true
+    },
+    {
+      "id": "78",
+      "voo_id": "4",
+      "poltrona": "5B",
+      "ocupado": true
+    },
+    {
+      "id": "79",
+      "voo_id": "4",
+      "poltrona": "5C",
+      "ocupado": false
+    },
+    {
+      "id": "80",
+      "voo_id": "4",
+      "poltrona": "5D",
+      "ocupado": false
+    }
+  ],
+  "tickets": [
+    {
+      "id": "1",
+      "cliente": "João Exemplo",
+      "assento_id": "1"
+    },
+    {
+      "id": "2",
+      "cliente": "Maria Silva",
+      "assento_id": "2"
+    },
+    {
+      "id": "3",
+      "cliente": "José Santos",
+      "assento_id": "3"
+    },
+    {
+      "id": "4",
+      "cliente": "Ana Costa",
+      "assento_id": "4"
+    },
+    {
+      "id": "5",
+      "cliente": "Pedro Alves",
+      "assento_id": "17"
+    },
+    {
+      "id": "6",
+      "cliente": "Carlos Souza",
+      "assento_id": "21"
+    },
+    {
+      "id": "7",
+      "cliente": "Mariana Lima",
+      "assento_id": "25"
+    },
+    {
+      "id": "8",
+      "cliente": "Fernanda Rocha",
+      "assento_id": "26"
+    },
+    {
+      "id": "9",
+      "cliente": "Rafael Oliveira",
+      "assento_id": "33"
+    },
+    {
+      "id": "10",
+      "cliente": "Beatriz Cunha",
+      "assento_id": "38"
+    },
+    {
+      "id": "11",
+      "cliente": "Lucas Martins",
+      "assento_id": "42"
+    },
+    {
+      "id": "12",
+      "cliente": "Carla Vieira",
+      "assento_id": "45"
+    },
+    {
+      "id": "13",
+      "cliente": "Joana Monteiro",
+      "assento_id": "46"
+    },
+    {
+      "id": "14",
+      "cliente": "Fábio Moura",
+      "assento_id": "57"
+    },
+    {
+      "id": "15",
+      "cliente": "Amanda Torres",
+      "assento_id": "58"
+    },
+    {
+      "id": 16,
+      "cliente": "Leonardo",
+      "assento_id": "3"
+    },
+    {
+      "id": 17,
+      "cliente": "Millena",
+      "assento_id": "27"
+    }
+  ]
+}

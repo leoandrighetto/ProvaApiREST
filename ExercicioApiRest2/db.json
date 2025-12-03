@@ -1,0 +1,340 @@
+{
+  "clientes": [
+    {
+      "id": "100",
+      "nome": "Carlos Silva",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": "101",
+      "nome": "Maria Oliveira",
+      "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "102",
+      "nome": "João Santos",
+      "cidade": "Belo Horizonte"
+    },
+    {
+      "id": "103",
+      "nome": "Ana Costa",
+      "cidade": "Curitiba"
+    },
+    {
+      "id": "104",
+      "nome": "Pedro Lima",
+      "cidade": "Porto Alegre"
+    },
+    {
+      "id": "105",
+      "nome": "Paula Marques",
+      "cidade": "Salvador"
+    },
+    {
+      "id": "106",
+      "nome": "Renato Souza",
+      "cidade": "Florianópolis"
+    },
+    {
+      "id": "107",
+      "nome": "Juliana Pereira",
+      "cidade": "Brasília"
+    },
+    {
+      "id": "108",
+      "nome": "Fabiana Rocha",
+      "cidade": "Fortaleza"
+    },
+    {
+      "id": "109",
+      "nome": "Julia Ribeiro",
+      "cidade": "Curitiba"
+    },
+    {
+      "id": "110",
+      "nome": "Isabela Costa",
+      "cidade": "Brasília"
+    },
+    {
+      "id": "111",
+      "nome": "Paulo Pereira",
+      "cidade": "Fortaleza"
+    },
+    {
+      "id": "112",
+      "nome": "Sofia Carvalho",
+      "cidade": "Fortaleza"
+    },
+    {
+      "id": "114",
+      "nome": "Leonardo Linhares",
+      "cidade": "Porto Alegre"
+    },
+    {
+      "id": "115",
+      "nome": "Millena",
+      "cidade": "Porto Alegre"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "200",
+      "nome": "Notebook",
+      "valor": 2500,
+      "estoque": 39
+    },
+    {
+      "id": "201",
+      "nome": "Smartphone",
+      "valor": 1500,
+      "estoque": 39
+    },
+    {
+      "id": "202",
+      "nome": "Teclado Mecânico",
+      "valor": 300,
+      "estoque": 17
+    },
+    {
+      "id": "203",
+      "nome": "Monitor 24",
+      "valor": 700,
+      "estoque": 49
+    },
+    {
+      "id": "204",
+      "nome": "Cadeira Gamer",
+      "valor": 800,
+      "estoque": 11
+    },
+    {
+      "id": "205",
+      "nome": "Headset",
+      "valor": 250,
+      "estoque": 23
+    },
+    {
+      "id": "206",
+      "nome": "Mouse Gamer",
+      "valor": 150,
+      "estoque": 30
+    },
+    {
+      "id": "207",
+      "nome": "SSD 1TB",
+      "valor": 400,
+      "estoque": 55
+    },
+    {
+      "id": "208",
+      "nome": "Placa Mãe",
+      "valor": 1200,
+      "estoque": 89
+    },
+    {
+      "id": "209",
+      "nome": "Processador i7",
+      "valor": 1500,
+      "estoque": 60
+    },
+    {
+      "id": "210",
+      "nome": "Memória RAM 16GB",
+      "valor": 600,
+      "estoque": 98
+    },
+    {
+      "id": "211",
+      "nome": "Gabinete ATX",
+      "valor": 350,
+      "estoque": 33
+    },
+    {
+      "id": "212",
+      "nome": "Fonte 750W",
+      "valor": 450,
+      "estoque": 65
+    },
+    {
+      "id": "213",
+      "nome": "HD 2TB",
+      "valor": 350,
+      "estoque": 77
+    },
+    {
+      "id": "214",
+      "nome": "Webcam Full HD",
+      "valor": 300,
+      "estoque": 34
+    },
+    {
+      "id": "215",
+      "nome": "Switch 8 portas",
+      "valor": 250,
+      "estoque": 43
+    },
+    {
+      "id": "216",
+      "nome": "Roteador Wi-Fi 6",
+      "valor": 400,
+      "estoque": 35
+    },
+    {
+      "id": "217",
+      "nome": "Impressora Multifuncional",
+      "valor": 600,
+      "estoque": 39
+    },
+    {
+      "id": "218",
+      "nome": "Notebook Gamer",
+      "valor": 4500,
+      "estoque": 33
+    },
+    {
+      "id": "219",
+      "nome": "Carregador Portátil",
+      "valor": 100,
+      "estoque": 70
+    }
+  ],
+  "pedidos": [
+    {
+      "id": "300",
+      "cliente_id": 100,
+      "data_pedido": "2024-01-15",
+      "produtos": [
+        {
+          "produto_id": 200
+        },
+        {
+          "produto_id": 202
+        },
+        {
+          "produto_id": 201
+        }
+      ]
+    },
+    {
+      "id": "301",
+      "cliente_id": 101,
+      "data_pedido": "2024-02-20",
+      "produtos": [
+        {
+          "produto_id": 203
+        },
+        {
+          "produto_id": 204
+        }
+      ]
+    },
+    {
+      "id": "302",
+      "cliente_id": 102,
+      "data_pedido": "2024-03-25",
+      "produtos": [
+        {
+          "produto_id": 205
+        }
+      ]
+    },
+    {
+      "id": "303",
+      "cliente_id": 103,
+      "data_pedido": "2024-04-30",
+      "produtos": [
+        {
+          "produto_id": 209
+        },
+        {
+          "produto_id": 210
+        }
+      ]
+    },
+    {
+      "id": "304",
+      "cliente_id": 104,
+      "data_pedido": "2024-05-05",
+      "produtos": [
+        {
+          "produto_id": 208
+        }
+      ]
+    },
+    {
+      "id": "305",
+      "cliente_id": 105,
+      "data_pedido": "2024-06-10",
+      "produtos": [
+        {
+          "produto_id": 204
+        },
+        {
+          "produto_id": 212
+        }
+      ]
+    },
+    {
+      "id": "306",
+      "cliente_id": 106,
+      "data_pedido": "2024-07-15",
+      "produtos": [
+        {
+          "produto_id": 206
+        },
+        {
+          "produto_id": 206
+        }
+      ]
+    },
+    {
+      "id": "307",
+      "cliente_id": 107,
+      "data_pedido": "2024-08-20",
+      "produtos": [
+        {
+          "produto_id": 215
+        }
+      ]
+    },
+    {
+      "id": "308",
+      "cliente_id": 108,
+      "data_pedido": "2024-09-25",
+      "produtos": [
+        {
+          "produto_id": 207
+        },
+        {
+          "produto_id": 207
+        }
+      ]
+    },
+    {
+      "id": "309",
+      "cliente_id": 109,
+      "data_pedido": "2024-10-30",
+      "produtos": [
+        {
+          "produto_id": 213
+        }
+      ]
+    },
+    {
+      "id": "311",
+      "cliente_id": 100,
+      "data_pedido": "2025-11-30",
+      "produtos": [
+        {
+          "produto_id": 200
+        }
+      ]
+    },
+    {
+      "id": "312",
+      "cliente_id": 101,
+      "data_pedido": "2025-12-10",
+      "produtos": []
+    }
+  ]
+}
