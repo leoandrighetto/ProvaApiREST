@@ -1,0 +1,130 @@
+{
+  "turmas": [
+    {
+      "disciplina": "Eletrônica Analógica I",
+      "curso": "eletrônica",
+      "alunos": 12,
+      "id": "4"
+    },
+    {
+      "disciplina": "Eletrônica Analógica II",
+      "curso": "eletrônica",
+      "alunos": 18,
+      "id": "5"
+    },
+    {
+      "disciplina": "Programação I",
+      "curso": "informática",
+      "alunos": 25,
+      "id": "6"
+    },
+    {
+      "disciplina": "Programação II",
+      "curso": "informática",
+      "alunos": 0,
+      "id": "7"
+    },
+    {
+      "disciplina": "Redes de Computadores I",
+      "curso": "informática",
+      "alunos": 0,
+      "id": "8"
+    },
+    {
+      "disciplina": "Redes de Computadores II",
+      "curso": "informática",
+      "alunos": 17,
+      "id": "9"
+    },
+    {
+      "disciplina": "Práticas em Lazer II",
+      "curso": "lazer",
+      "alunos": 8,
+      "id": "10"
+    },
+    {
+      "disciplina": "Metodologia do Lazer",
+      "curso": "lazer",
+      "alunos": 15,
+      "id": "11"
+    },
+    {
+      "disciplina": "Fundamentos de Eletricidade",
+      "curso": "eletrônica",
+      "alunos": 16,
+      "id": "12"
+    },
+    {
+      "disciplina": "Sistemas Digitais",
+      "curso": "eletrônica",
+      "alunos": 14,
+      "id": "13"
+    },
+    {
+      "disciplina": "Banco de Dados I",
+      "curso": "informática",
+      "alunos": 19,
+      "id": "14"
+    },
+    {
+      "disciplina": "Desenvolvimento Web I",
+      "curso": "informática",
+      "alunos": 28,
+      "id": "15"
+    },
+    {
+      "disciplina": "Desenvolvimento Web II",
+      "curso": "informática",
+      "alunos": 24,
+      "id": "16"
+    },
+    {
+      "disciplina": "Recreação e Jogos",
+      "curso": "lazer",
+      "alunos": 9,
+      "id": "17"
+    },
+    {
+      "disciplina": "Gestão de Projetos em Lazer",
+      "curso": "lazer",
+      "alunos": 6,
+      "id": "18"
+    },
+    {
+      "disciplina": "Instrumentação Eletrônica",
+      "curso": "eletrônica",
+      "alunos": 11,
+      "id": "19"
+    },
+    {
+      "disciplina": "Microcontroladores",
+      "curso": "eletrônica",
+      "alunos": 13,
+      "id": "20"
+    },
+    {
+      "id": "21",
+      "disciplina": "Programação",
+      "curso": "informática",
+      "alunos": 5
+    },
+    {
+      "id": "22",
+      "disciplina": "Fundamentos de Eletricidade",
+      "curso": "",
+      "alunos": 5
+    },
+    {
+      "id": "23",
+      "disciplina": "asdasd",
+      "curso": "eletrônica",
+      "alunos": 5
+    },
+    {
+      "id": "24",
+      "disciplina": "asdasd",
+      "curso": "informática",
+      "alunos": 6
+    }
+  ]
+}
